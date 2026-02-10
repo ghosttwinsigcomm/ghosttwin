@@ -81,7 +81,7 @@ cd tofinoScripts
 
 2) Tun the monitoring script
     - The receiver interface is the interface where the monitoring packets will be catched.
-    - The sendder interface is the interface where the packets will be sent
+    - The sender interface is the interface where the packets will be sent
     - The instruction file contains the flow and port identifiers that will be monitored, you can change it to reflect the desired monitoring parameters.
 
 ```bash
